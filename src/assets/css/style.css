@@ -22,3 +22,8 @@ p {
     text-align: justify;
     text-decoration: none;
 }
+
+a {
+    text-decoration: none;
+    margin: auto;
+}
