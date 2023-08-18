@@ -7,7 +7,7 @@ body {
 main {
     margin: auto;
     width: 500px;
-    height: 500px;
+    height: 300px;
     border: 1px solid #000;
     background-color: #fff;
     border-radius: 3px;
@@ -21,4 +21,9 @@ p {
     color: #000;
     text-align: justify;
     text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    margin: auto;
 }
